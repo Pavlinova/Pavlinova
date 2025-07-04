@@ -13,15 +13,13 @@
 
 Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform</a> for a <a href="https://daryatitova.tilda.ws/">Psychologist Daria Tytova</a> 
 
-<a href="https://www.frontendmentor.io/profile/Pavlinova/"><font size="5">Frontend Mentor`s projects</font></a>
+<a href="https://www.frontendmentor.io/profile/Pavlinova/">Frontend Mentor`s projects</a>
 
-
-
-[Blog preview card](https://frontend-mentor-three-pink.vercel.app/)
 <p>
   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" title="hover text">
 <!--   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" alt="accessibility text"> -->
 </p>
+[Blog preview card](https://frontend-mentor-three-pink.vercel.app/)
 
 
 
