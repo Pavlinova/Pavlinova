@@ -14,5 +14,8 @@
 
 <a href="https://pavlinova.github.io/">Frontend Mentor`s projects</a>
 
+![Screenshot](https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32)
+
+
 Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform</a> for a <a href="https://daryatitova.tilda.ws/">psychologist Daria Tytova</a> 
 
