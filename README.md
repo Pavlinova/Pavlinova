@@ -16,10 +16,10 @@ Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform
 <a href="https://www.frontendmentor.io/profile/Pavlinova/">Frontend Mentor`s projects</a>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" title="hover text">
+  <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="250" title="hover text">
 <!--   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" alt="accessibility text"> -->
 </p>
-[Blog preview card](https://frontend-mentor-three-pink.vercel.app/)
+![Blog preview card](https://frontend-mentor-three-pink.vercel.app/)
 
 
 
