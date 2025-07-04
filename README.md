@@ -14,8 +14,9 @@
 
 <a href="https://pavlinova.github.io/">Frontend Mentor`s projects</a>
 
-![Screenshot](https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32)
 
+
+[Blog preview card](https://frontend-mentor-three-pink.vercel.app/)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" title="hover text">
   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" alt="accessibility text">
