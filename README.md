@@ -15,20 +15,20 @@ Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform
 
 ## Learning projects
 <br>
-<a href="https://www.frontendmentor.io/profile/Pavlinova/">Frontend Mentor`s projects</a>
+1. Frontend Mentor`s <a href="https://www.frontendmentor.io/profile/Pavlinova/">projects</a>
 
 <p>
   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="250" title="hover text">
 <!--   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" alt="accessibility text"> -->
 </p>
 
-[Blog preview card](https://frontend-mentor-three-pink.vercel.app/)
+  - [Blog preview card](https://frontend-mentor-three-pink.vercel.app/)
 <br>
 <p>
   <img src="https://github.com/user-attachments/assets/ef9041db-d686-4b4b-867b-060929da5dff" width="250" title="hover text">
 <!--   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" alt="accessibility text"> -->
 </p>
-[Recipe page](https://frontend-mentor-ko6i.vercel.app/)
+  - [Recipe page](https://frontend-mentor-ko6i.vercel.app/)
 
 
 
