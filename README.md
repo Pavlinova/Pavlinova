@@ -13,7 +13,7 @@
 
 Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform</a> for a <a href="https://daryatitova.tilda.ws/">Psychologist Daria Tytova</a> 
 
-<a align="center" href="https://pavlinova.github.io/">Frontend Mentor`s projects</a>
+<a align="center" href="https://www.frontendmentor.io/profile/Pavlinova/">Frontend Mentor`s projects</a>
 
 
 
