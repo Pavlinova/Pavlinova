@@ -15,13 +15,24 @@ Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform
 
 ## Learning projects
 <br>
-1. Frontend Mentor`s <a href="https://www.frontendmentor.io/profile/Pavlinova/">projects</a><br/>
-  - [Blog preview card](https://frontend-mentor-three-pink.vercel.app/)<br/>
+1. Math cheat sheets for school. </br>
+Made in Indesign, with Latex script by <a href="https://github.com/gomezrj/LaTeX2InD.git"> gomezrj</a> 
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/81f89622-7303-4d9b-92cf-5f25ee6aca0e" width="150" />
+  <img src="https://github.com/user-attachments/assets/795797f2-46c3-4543-80de-63edb875a1cf" width="150" /> 
+  <img src="https://github.com/user-attachments/assets/040cb12a-c85c-4512-b03d-9d459386a2b8" width="150" />
+</p>
+
+2. Frontend Mentor`s <a href="https://www.frontendmentor.io/profile/Pavlinova/">projects</a><br/>
+<br>
+  - <a href="https://frontend-mentor-three-pink.vercel.app/">Blog preview card</a><br/>
+  <br>
 <p>
   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="250" title="hover text">
 <!--   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" alt="accessibility text"> -->
 </p><br/>
-  - [Recipe page](https://frontend-mentor-ko6i.vercel.app/)<br/>
+  - <a href="https://frontend-mentor-ko6i.vercel.app/">Recipe page</a><br/>
+  <br>
 <p>
   <img src="https://github.com/user-attachments/assets/ef9041db-d686-4b4b-867b-060929da5dff" width="250" title="hover text">
 <!--   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" alt="accessibility text"> -->
