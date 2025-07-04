@@ -11,8 +11,9 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform</a> for a <a href="https://daryatitova.tilda.ws/">Psychologist Daria Tytova</a> 
 
-<a href="https://pavlinova.github.io/">Frontend Mentor`s projects</a>
+<a align="center" href="https://pavlinova.github.io/">Frontend Mentor`s projects</a>
 
 
 
@@ -23,5 +24,5 @@
 </p>
 
 
-Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform</a> for a <a href="https://daryatitova.tilda.ws/">psychologist Daria Tytova</a> 
+
 
