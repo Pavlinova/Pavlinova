@@ -12,10 +12,11 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 Design and website layout on the ["Tilda" platform](https://tilda.cc/ru/) for a [Psychologist Daria Tytova](https://daryatitova.tilda.ws/).
-
+<br>
+<br>
 # Learning projects
 
-## **Math cheat sheets for school** 
+### **1. Math cheat sheets for school** 
 
 <p float="left">
 <img src="https://github.com/user-attachments/assets/f9d5c942-4209-43c6-8f1a-8304a5035ae6" width="200" title="math_school_1">
@@ -26,16 +27,16 @@ Design and website layout on the ["Tilda" platform](https://tilda.cc/ru/) for a 
 Made in Indesign, with Latex script by [gomezrj](https://github.com/gomezrj/LaTeX2InD.git).
 <br>
 <br>
-## **Frontend Mentor`s [projects](https://www.frontendmentor.io/profile/Pavlinova/)
+### **2. Frontend Mentor`s [projects](https://www.frontendmentor.io/profile/Pavlinova/)**
 
-  ### [Blog preview card](https://frontend-mentor-three-pink.vercel.app/)
-  <br>
+  #### [Blog preview card](https://frontend-mentor-three-pink.vercel.app/)
+ 
   <p>
     <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="250" title="Blog_preview_card">
   </p>
   
-  ### [Recipe page](https://frontend-mentor-ko6i.vercel.app/)
-  <br>
+  #### [Recipe page](https://frontend-mentor-ko6i.vercel.app/)
+
   <p>
     <img src="https://github.com/user-attachments/assets/ef9041db-d686-4b4b-867b-060929da5dff" width="250" title="Recipe_page">
   </p>
