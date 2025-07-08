@@ -15,16 +15,18 @@ Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform
 
 ## Learning projects
 <br>
-1. Math cheat sheets for school. </br>
-<br>
-Made in Indesign, with Latex script by <a href="https://github.com/gomezrj/LaTeX2InD.git"> gomezrj</a> 
+### Math cheat sheets for school. </br>
+
+
 <p float="left">
 <img src="https://github.com/user-attachments/assets/f9d5c942-4209-43c6-8f1a-8304a5035ae6" width="200" title="hover text">
 <img src="https://github.com/user-attachments/assets/2a66679c-2003-4e2f-8683-869b52c9989c" width="200" title="hover text">
 <img src="https://github.com/user-attachments/assets/f315590c-268b-48ed-9a94-5f84fac8fdf9" width="200" title="hover text">
 </p>
-
-2. Frontend Mentor`s <a href="https://www.frontendmentor.io/profile/Pavlinova/">projects</a><br/>
+<br>
+Made in Indesign, with Latex script by <a href="https://github.com/gomezrj/LaTeX2InD.git"> gomezrj</a> 
+<br>
+### Frontend Mentor`s <a href="https://www.frontendmentor.io/profile/Pavlinova/">projects</a><br/>
 <br>
   - <a href="https://frontend-mentor-three-pink.vercel.app/">Blog preview card</a><br/>
   <br>
