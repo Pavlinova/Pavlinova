@@ -11,35 +11,34 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform</a> for a <a href="https://daryatitova.tilda.ws/">Psychologist Daria Tytova</a> 
+Design and website layout on the ["Tilda" platform](https://tilda.cc/ru/) for a [Psychologist Daria Tytova](https://daryatitova.tilda.ws/).
 
-## Learning projects
-<br>
-### Math cheat sheets for school. </br>
+# Learning projects
 
+## **Math cheat sheets for school** 
 
 <p float="left">
-<img src="https://github.com/user-attachments/assets/f9d5c942-4209-43c6-8f1a-8304a5035ae6" width="200" title="hover text">
-<img src="https://github.com/user-attachments/assets/2a66679c-2003-4e2f-8683-869b52c9989c" width="200" title="hover text">
-<img src="https://github.com/user-attachments/assets/f315590c-268b-48ed-9a94-5f84fac8fdf9" width="200" title="hover text">
+<img src="https://github.com/user-attachments/assets/f9d5c942-4209-43c6-8f1a-8304a5035ae6" width="200" title="math_school_1">
+<img src="https://github.com/user-attachments/assets/2a66679c-2003-4e2f-8683-869b52c9989c" width="200" title="math_school_2">
+<img src="https://github.com/user-attachments/assets/f315590c-268b-48ed-9a94-5f84fac8fdf9" width="200" title="math_school_3">
 </p>
+
+Made in Indesign, with Latex script by [gomezrj](https://github.com/gomezrj/LaTeX2InD.git).
 <br>
-Made in Indesign, with Latex script by <a href="https://github.com/gomezrj/LaTeX2InD.git"> gomezrj</a> 
 <br>
-### Frontend Mentor`s <a href="https://www.frontendmentor.io/profile/Pavlinova/">projects</a><br/>
-<br>
-  - <a href="https://frontend-mentor-three-pink.vercel.app/">Blog preview card</a><br/>
+## **Frontend Mentor`s [projects](https://www.frontendmentor.io/profile/Pavlinova/)
+
+  ### [Blog preview card](https://frontend-mentor-three-pink.vercel.app/)
   <br>
-<p>
-  <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="250" title="hover text">
-<!--   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" alt="accessibility text"> -->
-</p><br/>
-  - <a href="https://frontend-mentor-ko6i.vercel.app/">Recipe page</a><br/>
+  <p>
+    <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="250" title="Blog_preview_card">
+  </p>
+  
+  ### [Recipe page](https://frontend-mentor-ko6i.vercel.app/)
   <br>
-<p>
-  <img src="https://github.com/user-attachments/assets/ef9041db-d686-4b4b-867b-060929da5dff" width="250" title="hover text">
-<!--   <img src="https://github.com/user-attachments/assets/c18995a5-f6c7-4d1f-9c19-aba1a8491c32" width="350" alt="accessibility text"> -->
-</p>
+  <p>
+    <img src="https://github.com/user-attachments/assets/ef9041db-d686-4b4b-867b-060929da5dff" width="250" title="Recipe_page">
+  </p>
 
 
 
