@@ -16,6 +16,7 @@ Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform
 ## Learning projects
 <br>
 1. Math cheat sheets for school. </br>
+<br>
 Made in Indesign, with Latex script by <a href="https://github.com/gomezrj/LaTeX2InD.git"> gomezrj</a> 
 <p float="left">
 <img src="https://github.com/user-attachments/assets/f9d5c942-4209-43c6-8f1a-8304a5035ae6" width="200" title="hover text">
