@@ -18,9 +18,9 @@ Design and website layout on the <a href="https://tilda.cc/ru/">"Tilda" platform
 1. Math cheat sheets for school. </br>
 Made in Indesign, with Latex script by <a href="https://github.com/gomezrj/LaTeX2InD.git"> gomezrj</a> 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/81f89622-7303-4d9b-92cf-5f25ee6aca0e" width="150" />
-  <img src="https://github.com/user-attachments/assets/795797f2-46c3-4543-80de-63edb875a1cf" width="150" /> 
-  <img src="https://github.com/user-attachments/assets/040cb12a-c85c-4512-b03d-9d459386a2b8" width="150" />
+<img src="https://github.com/user-attachments/assets/f9d5c942-4209-43c6-8f1a-8304a5035ae6" width="200" title="hover text">
+<img src="https://github.com/user-attachments/assets/2a66679c-2003-4e2f-8683-869b52c9989c" width="200" title="hover text">
+<img src="https://github.com/user-attachments/assets/f315590c-268b-48ed-9a94-5f84fac8fdf9" width="200" title="hover text">
 </p>
 
 2. Frontend Mentor`s <a href="https://www.frontendmentor.io/profile/Pavlinova/">projects</a><br/>
